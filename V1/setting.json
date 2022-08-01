@@ -1,0 +1,41 @@
+{
+  "image": "https://i.postimg.cc/s2JT9kYy/ww12-n.jpg",
+  "maintenance": {
+    "enabled": false,
+    "text": "Server sedang proses update V1, harap cek lagi nanti"
+  },
+  "music": {
+    "enabled": false,
+    "link": "-",
+    "title": "-"
+  },
+  "music2": {
+    "enabled": true,
+    "link": "https://www.dropbox.com/s/l5t7crrh1elraps/umr.mp3?dl=1",
+    "title": "Himouto Umaru Chan - Opening"
+  },
+  "telegram": "https://t.me/GoNimeGN",
+  "whatsapp": ":v",
+  "latest_version": 119,
+  "minimum_version": 119,
+  "update_message": "Update terbaru ditemukan#n#Jika tombol update di playstore tidak muncul#n#Tutup dulu playstore nya lalu buka kembali ya :) ",
+  "announcement": {
+    "enabled": true,
+    "text": "Harap Diupdate Aplikasinya!"
+  },
+  "announcements": [{
+      "enabled": true,
+      "text": "GoNime sebentar lagi akan rilis, nantikan updatenya :)"
+    }
+  ],
+  "new": false,
+  "custom": {
+    "enabled": true,
+    "text": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
+  },
+  "pp1": "",
+  "qq1": "",
+  "sc": "https://otakudesu.moe/",
+  "sc2": "https://samehadaku.vip/",
+  "tempo": []
+}
